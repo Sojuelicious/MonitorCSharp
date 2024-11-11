@@ -1,0 +1,14 @@
+D:\Escritorio\pp\TaskManaggerFinalProject\bin\Debug\net8.0-windows\TaskManaggerFinalProject.exe
+D:\Escritorio\pp\TaskManaggerFinalProject\bin\Debug\net8.0-windows\TaskManaggerFinalProject.deps.json
+D:\Escritorio\pp\TaskManaggerFinalProject\bin\Debug\net8.0-windows\TaskManaggerFinalProject.runtimeconfig.json
+D:\Escritorio\pp\TaskManaggerFinalProject\bin\Debug\net8.0-windows\TaskManaggerFinalProject.dll
+D:\Escritorio\pp\TaskManaggerFinalProject\bin\Debug\net8.0-windows\TaskManaggerFinalProject.pdb
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.AssemblyInfoInputs.cache
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.AssemblyInfo.cs
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.csproj.CoreCompileInputs.cache
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.dll
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\refint\TaskManaggerFinalProject.dll
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.pdb
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\TaskManaggerFinalProject.genruntimeconfig.cache
+D:\Escritorio\pp\TaskManaggerFinalProject\obj\Debug\net8.0-windows\ref\TaskManaggerFinalProject.dll
