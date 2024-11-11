@@ -54,7 +54,7 @@ Primero, clona el repositorio a tu máquina local.
   -algo
 
 ```bash
-git clone https://github.com/usuario/nombre-del-repo.git
+https://github.com/Sojuelicious/MonitorCSharp.git
 ```
 
 ### 3. Abre el Proyecto en Visual Studio Code
@@ -62,7 +62,7 @@ git clone https://github.com/usuario/nombre-del-repo.git
 Una vez clonado el repositorio, navega a la carpeta del proyecto y ábrelo en Visual Studio Code. Usa los siguientes comandos en la terminal:
 
 ```bash
-cd nombre-del-repo
+cd MonitorCSharp
 code .
 ```
 
