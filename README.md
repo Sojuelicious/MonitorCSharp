@@ -48,10 +48,7 @@ Para empezar a trabajar con este proyecto, sigue estos pasos:
 
 ### 2. Clona el Repositorio
 
-Primero, clona el repositorio a tu máquina local.
-
->Crea una carpeta con el nombre de tu proyecto.
-  -algo
+Clona el repositorio a tu máquina local.
 
 ```bash
 https://github.com/Sojuelicious/MonitorCSharp.git
