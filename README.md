@@ -75,7 +75,7 @@ dotnet restore
 
 ### 5. Compila y Ejecuta la Aplicación
 
-Para compilar y ejecutar la aplicación, utiliza los siguientes comandos en la terminal de Visual Studio Code:
+Para compilar y ejecutar la aplicación, utiliza los siguientes comandos
 
 1. **Compilar el proyecto**:
     ```bash
